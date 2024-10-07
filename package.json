@@ -1,0 +1,24 @@
+{
+  "name": "react-template",
+  "version": "1.1.0",
+  "description": "A template project for Node/React projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "node --watch index.ks",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+<<<<<<< HEAD
+    "express": "^4.21.0",
+    "express-validator": "^7.2.0"
+=======
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "express-async-handler": "^1.2.0"
+>>>>>>> branch
+  }
+}
